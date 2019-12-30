@@ -1,0 +1,25 @@
+{
+  "name": "webdoc-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishna8691/webdoc-backend.git"
+  },
+  "author": "Krishna Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishna8691/webdoc-backend/issues"
+  },
+  "homepage": "https://github.com/Krishna8691/webdoc-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "twilio": "^3.39.1"
+  }
+}
